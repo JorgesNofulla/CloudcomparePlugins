@@ -55,7 +55,7 @@ conda create --name your_env python=3.9.6
 ```bash
 conda activate your_env
 ```
-5. Install the wheels available in this repository :
+6. Install the wheels available in this repository :
 ```bash
 pip install pycc-0.0.1-cp39-cp39-linux_x86_64.whl
 ```
