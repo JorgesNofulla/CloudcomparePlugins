@@ -28,7 +28,7 @@ for more info visit https://formulae.brew.sh/formula/qt
 If we increase the soft limit and run our program again, we should see it open more files. We'll use the ulimit command and the -n (open files) option with a numeric value of 2048. This will be the new soft limit.
 
 ```bash
-ulimit -n 2048
+ulimit -n 2048  or  ulimit -n 4096
  ```
 3. Usually an error about libQT is present, to fix it use in your ubuntu command prompt :
 ```bash
