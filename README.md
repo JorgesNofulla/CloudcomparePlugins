@@ -1,9 +1,13 @@
 # CloudcomparePlugins
 
-There are many known issues with CloudCompare wheel buidlings and I hope these pre build wheels with a simple tutorial will help.
+There are many issues while trying to build CloudCompare wheels and I hope these pre-build wheels with a simple tutorial will help.
 
 ## Notes
 This method is tested using Ubuntu in a Linux subsystem in Windows.
+
+## Wheels
+
+[`Wheels`](./Wheels/): Images used in this repository
 
 ## Installation
 1. First you need to install brew in your ubuntu
@@ -54,3 +58,9 @@ pip install pycc-0.0.1-cp39-cp39-linux_x86_64.whl
 ```bash
 pip install cccorelib-0.0.1-cp39-cp39-linux_x86_64.whl
 ```
+
+
+## Acknowledgements
+The original repository where you can build the wheels from scratch :
+
+https://github.com/tmontaigu/CloudCompare-PythonRuntime/blob/master/docs/building.rst#building-as-independent-wheels
