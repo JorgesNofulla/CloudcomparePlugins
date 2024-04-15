@@ -7,7 +7,7 @@ This method is tested using Ubuntu in a Linux subsystem in Windows.
 
 ## Wheels
 
-[`Wheels`](./Wheels/): Images used in this repository
+[`Wheels`](./Wheels/): Pre-build wheels
 
 ## Installation
 1. First you need to install brew in your ubuntu
