@@ -1,1 +1,1 @@
-![image](https://github.com/JorgesNofulla/CloudcomparePlugins/assets/113198223/484eb06e-068b-4248-87ad-c8babf079bc4)
+![clip_image001](https://github.com/JorgesNofulla/CloudcomparePlugins/assets/113198223/212e77f9-5e28-43cb-a535-84e5ac53d090)
